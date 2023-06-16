@@ -3,4 +3,5 @@ aimyon
 aimyon
 aimyon
 aimyon
-あいみょんは5人です。
+gyonwan
+あいみょんは50人です。
