@@ -2,4 +2,5 @@ aimyon
 aimyon
 aimyon
 aimyon
-あいみょんは4人です。
+aimyon
+あいみょんは5人です。
