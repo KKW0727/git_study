@@ -6,5 +6,5 @@ aimyon
 gyonwan
 hoashi
 ichiro
-
+otani
 あいみょんは50人です。
