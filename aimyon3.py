@@ -5,4 +5,5 @@ aimyon
 aimyon
 gyonwan
 hoashi
+ichiro
 あいみょんは50人です。
