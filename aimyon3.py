@@ -11,5 +11,6 @@ aimyon
 aimyon
 aimyon
 aimyon
-あいみょんは11人です。
+aimyon
+あいみょんは111人です。
 
