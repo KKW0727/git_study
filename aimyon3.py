@@ -7,4 +7,4 @@ gyonwan
 hoashi
 ichiro
 otani
-あいみょんは512人です。
+あいみょんは445人です。
