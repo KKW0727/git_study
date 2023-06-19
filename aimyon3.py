@@ -9,5 +9,7 @@ ichiro
 otani
 aimyon
 aimyon
+aimyon
+aimyon
 あいみょんは11人です。
 
